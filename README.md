@@ -1,2 +1,2 @@
-# mtc-backend-dev
-python Code for MTC
+# This is a dev python repository is for backend developers. 
+The infa was last modified by Alhelal Siddique
